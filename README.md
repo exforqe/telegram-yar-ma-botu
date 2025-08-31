@@ -1,1 +1,1 @@
-# telegram-yar-ma-botu
+# telegram-yarismama-botu
